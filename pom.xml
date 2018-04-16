@@ -263,7 +263,7 @@
    </build>
 
 	 <properties>
-		<java.version>1.8</java.version>
+		<ondex.java.version>1.8</ondex.java.version>
 		<ondex.version>${project.version}</ondex.version>
 		<target.dir>target</target.dir>
 		<nexus.repro>http://ondex.rothamsted.ac.uk/nexus</nexus.repro>
