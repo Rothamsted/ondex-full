@@ -299,7 +299,7 @@
 		<junit.version>4.7</junit.version>
 		<mysql.connector.java.version>5.1.6</mysql.connector.java.version>
 		<jutils.version>8.0.1-SNAPSHOT</jutils.version>
-		<lucene.version>6.6.0</lucene.version>
+		<lucene.version>8.3.0</lucene.version>
 		<spring.version>4.3.6.RELEASE</spring.version>
 		
 		<!-- Used by neo4j-related components -->
