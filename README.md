@@ -1,3 +1,8 @@
+# This was moved!
+
+Please go [here](https://github.com/Rothamsted/knetbuilder)
+
+
 # ONDEX (ondex-full)
 
 [ONDEX](http://www.ondex.org/) is a framework for text mining, data integration and data analysis. 
